@@ -12,7 +12,7 @@ Hello, my name is Ellie! I am a sixteen year old who plans to major in Computer 
 
 ## Skills!
 <img src="https://user-images.githubusercontent.com/51255260/210163658-29ab12f1-99b1-4eb8-9442-b10fcd63d31d.png%22%3E">
-<img src="https://user-images.githubusercontent.com/51255260/210163694-e6bda40c-a7b3-4f53-866f-194dde636b36.png%22%3E">
+<img src="https://user-images.githubusercontent.com/51255260/210165530-d8698bd3-fe2b-4bce-a741-5a333d0999f0.png">
 
 ## Contact Me!
 
