@@ -3,7 +3,7 @@ Hello, my name is Ellie! I am a sixteen year old who plans to major in Computer 
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/51255260/210163418-8ca2e861-f5d2-44e6-9098-99c2e51b7a0e.png%22%3E
+    <img src="https://user-images.githubusercontent.com/51255260/210163418-8ca2e861-f5d2-44e6-9098-99c2e51b7a0e.png%22%3E">
 </p>
 
 ## About!
@@ -11,8 +11,8 @@ Hello, my name is Ellie! I am a sixteen year old who plans to major in Computer 
 
 
 ## Skills!
-<img src="https://user-images.githubusercontent.com/51255260/210163658-29ab12f1-99b1-4eb8-9442-b10fcd63d31d.png%22%3E 
-<img src="https://user-images.githubusercontent.com/51255260/210163694-e6bda40c-a7b3-4f53-866f-194dde636b36.png%22%3E
+<img src="https://user-images.githubusercontent.com/51255260/210163658-29ab12f1-99b1-4eb8-9442-b10fcd63d31d.png%22%3E">
+<img src="https://user-images.githubusercontent.com/51255260/210163694-e6bda40c-a7b3-4f53-866f-194dde636b36.png%22%3E">
 
 ## Contact Me!
 
