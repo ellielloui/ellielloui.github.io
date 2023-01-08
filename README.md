@@ -29,5 +29,5 @@ Hello, my name is Ellie! I am a sixteen year old who plans to major in Computer 
 
 ## Contact Me!
 
-- [#768c7a][@ellie.c.loui@gmail.com](url)
-- [#768c7a][ https://www.linkedin.com/in/ellie-loui-014903240/](url)
+- [@ellie.c.loui@gmail.com](url)
+- [ https://www.linkedin.com/in/ellie-loui-014903240/](url)
