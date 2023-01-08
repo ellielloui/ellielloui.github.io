@@ -1,3 +1,5 @@
+<img src = "https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif">
+
 <p align="center">
 Hello, my name is Ellie! I am a sixteen year old who plans to major in Computer Science! I am currently the president and founder of the Computer Science Club at Inderkum High. I also dual enroll at De Anza College. I have taken 3 programming courses at De Anza where I learned Java and Python! I look forward to learning more in the future!
 </p>
