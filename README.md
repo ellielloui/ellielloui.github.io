@@ -11,7 +11,7 @@ Hello, my name is Ellie! I am a sixteen year old who plans to major in Computer 
 </p>
 
 <p align="center" style = 'color:768c7a'> 
-    About!
+    ## About!
 </p>
 
 
