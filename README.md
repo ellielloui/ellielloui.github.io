@@ -11,7 +11,7 @@ Hello, my name is Ellie! I am a sixteen year old who plans to major in Computer 
 </p>
 
 ## About!
-<img src = "https://giphy.com/embed/H3eWnQ9OzazhXtnDcz" </p>">
+<img src = "https://giphy.com/embed/H3eWnQ9OzazhXtnDcz" </p>
 
 
 ## Skills!
