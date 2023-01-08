@@ -10,7 +10,7 @@ Hello, my name is Ellie! I am a sixteen year old who plans to major in Computer 
     <img src="https://user-images.githubusercontent.com/51255260/210165542-b9f4cb71-cbf9-4809-af7f-cc94dcf7b736.png">
 </p>
 
-<p align="center" color = "768c7a"> 
+<p align="center" style = 'color:768c7a'> 
     About!
 </p>
 
